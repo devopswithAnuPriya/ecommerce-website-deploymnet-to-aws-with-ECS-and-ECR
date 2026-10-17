@@ -88,4 +88,4 @@ This project is intended for hands-on learning and practical implementation of A
 
 # Lets Go to Software Installation 
 
-- [Software Installation](docs/installation.md)
+- [Software Installation](installation.md)
