@@ -131,5 +131,10 @@ For production deployment, ensure that:
 ![Network Architecture](images/10.png)
 
 
+# Lets Go to Frontend and backend Configuration 
+
+- [frontend and backend](frontend&backend.md)
+
+
 
 
