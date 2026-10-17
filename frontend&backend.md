@@ -191,6 +191,11 @@ SQS Subscription for Shipping
 ![S3 Bucket](images/41.png)
 
 
+# Lets Go to Frontend and backend Configuration 
+
+- [frontend and backend](frontend&backend.md)
+
+
 
 
 
