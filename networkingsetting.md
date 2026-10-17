@@ -112,3 +112,24 @@ For production deployment, ensure that:
 - Routing, security groups, health checks, and application dependencies are configured correctly.
 
 ![Network Architecture](images/zero.png)
+
+
+# Step 1 : - Create VPC 
+![Network Architecture](images/2.png)
+# Step 2 : - Create Internet gateway and attach to VPC
+![Network Architecture](images/3.png)
+# Step 3 : - Create Subnet
+![Network Architecture](images/4.png)
+# Step 4 : - Create NAT gateway
+![Network Architecture](images/5.png)
+# Step 5 : - Create route table
+![Network Architecture](images/6.png)
+![Network Architecture](images/7.png)
+![Network Architecture](images/8.png)
+# Step 6 : -  Create Cognito User Pool and Client App:
+![Network Architecture](images/9.png)
+![Network Architecture](images/10.png)
+
+
+
+
