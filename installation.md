@@ -66,4 +66,5 @@ and execute it again.
 - Docker is available for container image builds.
 - Node.js and npm are available for application dependencies.
 - The prerequisite script runs without line-ending errors.
+- ![Installation Of Software](images/1.png)
 
