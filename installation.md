@@ -71,5 +71,5 @@ and execute it again.
 
 # Lets Go to Network Configuration 
 
-- [Software Installation](networkingsetting.md)
+- [Network Setting](networkingsetting.md)
 
