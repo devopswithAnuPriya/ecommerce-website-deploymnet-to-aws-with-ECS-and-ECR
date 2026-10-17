@@ -68,3 +68,8 @@ and execute it again.
 - The prerequisite script runs without line-ending errors.
 - ![Installation Of Software](images/1.png)
 
+
+# Lets Go to Network Configuration 
+
+- [Software Installation](networkingsetting.md)
+
